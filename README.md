@@ -14,16 +14,16 @@ S.No.             Components                                            Range   
 1                    Resistor                                   1kΩ         3 
 
 
-2      Voltmeter(DC)                               0-30V        3 
+2                   Voltmeter(DC)                               0-30V        3 
 
 
-3      Ammeter (DC)                               (0-200)mA     3
+3                   Ammeter (DC)                               (0-200)mA     3
 
 
-4   Bread Board 1 5 Regulated Power Supply         (0-30)V      1
+4             Bread Board 1 5 Regulated Power Supply           (0-30)V      1
 
 
-5     Connecting wires                                As required
+5                   Connecting wires                                As required
 
 **THEORY:**
 
@@ -68,22 +68,48 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 a. KVL:
 
+
+![alt text](<EXP 1.png>)
+
+![alt text](<kvl beee1.jpeg>)
+
 b. KCL:
 
+
+![alt text](<EXP1 b.png>)
+
+![alt text](<kcl beee1.jpeg>)
 
 **Calculation:**
 
 
 a.KVL:
 
+![alt text](<kvl theory beee1.jpeg>)
+
+![alt text](<kvl theory part 2 beee 1.jpeg>)
+
+
 b.KCL:
+
+![alt text](<kcl theory beee 1.jpeg>)
+
+![alt text](<kcl theory part 2 beee 1.jpeg>)
+
 
 
 **Tabulation:**
 
 a.KVL:
 
+![alt text](<kvl tabulation beee1.jpeg>)
+
+
 b.KCL:
+
+
+![alt text](<kcl tabulation beee1.jpeg>)
+
 
 
 **RESULT:**
